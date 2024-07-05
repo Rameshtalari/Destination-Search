@@ -1,0 +1,22 @@
+.destination-card {
+  list-style-type: none;
+  width: 234px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 32px;
+}
+.destination-img {
+  height: 234x;
+  width: 175px;
+  border-radius: 10px;
+}
+.name {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 17px;
+}
+@media screen and (min-width: 768px) {
+  .name {
+    font-size: 20px;
+  }
+}
